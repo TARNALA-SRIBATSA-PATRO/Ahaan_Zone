@@ -127,7 +127,7 @@ header {
 .featured {
     width: 100%;
     height: 60vh;
-    background-image: linear-gradient(to right,rgba(0, 0, 0, 0.8) 20%, rgba(255, 255, 255, 0.2)), url('images/features.png'); /* Corrected the path and gradient syntax */
+    background-image: linear-gradient(to right,rgba(0, 0, 0, 0.8) 20%, rgba(255, 255, 255, 0.2)), url('features.png'); /* Corrected the path and gradient syntax */
     background-size: cover;
     background-position: top;
     position: relative;
